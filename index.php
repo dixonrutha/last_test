@@ -61,7 +61,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="timer days"></div>
                         <div class="column">
                             <div class="timer" id="hours"></div>
-                            <div class="text">Hours</div>
+                            <div class="text">Hours Dailys</div>
                         </div>
                         <div class="timer"></div>
                         <div class="column">
@@ -104,7 +104,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
         </div>
         </span>
-        <h3 class="sub-head-w3-agileits">Subscribe Us</h3>
+        <h3 class="sub-head-w3-agileits">New Form Us</h3>
         <form action="#" method="post">
             <input type="email" placeholder="Enter Your Email" required="">
             <input type="Submit">
