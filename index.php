@@ -66,7 +66,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <div class="timer"></div>
                         <div class="column">
                             <div class="timer" id="minutes"></div>
-                            <div class="text">Zuchu</div>
+                            <div class="text">From glocalhost git </div>
                         </div>
                         <div class="timer"></div>
                         <div class="column">
